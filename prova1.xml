@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cataleg>
+  <cd id="1">
+    <titol>Tinta azul</titol>
+    <artista>Bob Esponja</artista>
+    <pais>Fondo de Bikini</pais>
+    <preu>12.99</preu>
+    <any>2008</any>
+  </cd>
+</cataleg>
