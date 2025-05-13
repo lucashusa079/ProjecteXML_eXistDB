@@ -4,7 +4,28 @@
     <titol>Tinta roja</titol>
     <artista>Andres Calamaro</artista>
     <pais>Argentina</pais>
-    <preu>10.90</preu>
+    <preu>99.99</preu>
     <any>2006</any>
+  </cd>
+  <cd id="2">
+    <titol>Tinta amarilla</titol>
+    <artista>Pablo</artista>
+    <pais>Portugal</pais>
+    <preu>0.49</preu>
+    <any>1995</any>
+  </cd>
+  <cd id="3">
+    <titol>Tinta Rosa</titol>
+    <artista>Patricio</artista>
+    <pais>Fondo de Bikini</pais>
+    <preu>49.99</preu>
+    <any>2012</any>
+  </cd>
+  <cd id="4">
+    <titol>Tinta verda</titol>
+    <artista>Plakton</artista>
+    <pais>Fondo de Bikini</pais>
+    <preu>11.99</preu>
+    <any>2012</any>
   </cd>
 </cataleg>
